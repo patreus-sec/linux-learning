@@ -15,10 +15,10 @@ ubupat@ubuntu-pc:\~\$
 ```
 
 Meaning: 
-- ubupat - current user
-- ubuntu-pc - computer name
-- ~ - home directory
-- $ - normal user (not root)
+ubupat - current user
+ubuntu-pc - computer name
+~ - home directory
+$ - normal user (not root)
 
 ------------------------------------------------------------------------
 
@@ -67,13 +67,19 @@ Important directories:
 
 A path based on where I currently am.
 
-Example: cd Documents
+Example: 
+```bash
+cd Documents
+```
 
 ### Absolute path
 
 A full path starting from `/`.
 
-Example: cd /home/ubupat/Documents
+Example: 
+```bash
+cd /home/ubupat/Documents
+```
 
 ------------------------------------------------------------------------
 
@@ -82,9 +88,15 @@ Example: cd /home/ubupat/Documents
 I learned that: - .. always means go to the parent directory - it does
 not choose between folders - it always goes one level up
 
-Example: /home/ubupat/Projects cd ..
-
-Result: /home/ubupat
+Example: 
+```bash
+/home/ubupat/Projects
+cd ..
+```
+Result: 
+```bash
+/home/ubupat
+```
 
 ------------------------------------------------------------------------
 
@@ -92,7 +104,7 @@ Result: /home/ubupat
 
 -   Linux uses a hierarchical file system
 -   / is the starting point
--   \~ is my home directory
+-   ~ is my home directory
 -   cd is navigation
 -   pwd shows location
 -   ls shows contents
