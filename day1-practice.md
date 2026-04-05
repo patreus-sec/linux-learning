@@ -9,9 +9,9 @@ Today I practiced basic navigation commands in the Linux terminal.
 ## Commands used
 
 ```bash
-pwd
-ls
-cd /
-cd ~
-ls -la
+pwd       # show current directory
+ls        # list files
+cd /      # go to root directory
+cd ~      # go to home directory
+ls -la    # show detailed list
 ```
