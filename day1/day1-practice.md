@@ -1,6 +1,6 @@
 # Day 1 - Practice
 
-![Terminal navigation](images/day1-practice.png)
+![Terminal navigation](../images/day1-practice.png)
 
 ## Navigation practice
 
