@@ -15,10 +15,10 @@ ubupat@ubuntu-pc:\~\$
 ```
 
 Meaning: 
-ubupat - current user
-ubuntu-pc - computer name
-~ - home directory
-$ - normal user (not root)
+- ubupat - current user
+- ubuntu-pc - computer name
+- ~ - home directory
+- $ - normal user (not root)
 
 ------------------------------------------------------------------------
 
