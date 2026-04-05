@@ -48,9 +48,9 @@ Important directories:
 
 ### Navigation and location
 
--   pwd - show current directory
--   ls - list files and folders
--   ls -la - detailed list including hidden files
+-   `pwd` - show current directory
+-   `ls` - list files and folders
+-   `ls -la` - detailed list including hidden files
 
 ### Changing directories
 
@@ -114,4 +114,4 @@ Result:
 
 ## Summary
 
-Day 1 was about understanding Linux structure and navigation.
+Day 1 helped me understand how Linux is structured and how to move through the system using the terminal.
