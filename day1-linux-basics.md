@@ -85,15 +85,6 @@ Result: /home/ubupat
 
 ------------------------------------------------------------------------
 
-## Practice I completed
-
-pwd 
-ls 
-cd 
-/ pwd ls cd /home ls cd ubupat pwd
-
-------------------------------------------------------------------------
-
 ## Key things I understood
 
 -   Linux uses a hierarchical file system
