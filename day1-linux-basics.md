@@ -9,7 +9,10 @@ how to navigate the system using the terminal.
 
 ## Terminal basics
 
-Example prompt: ubupat@ubuntu-pc:\~\$
+Example prompt: 
+```bash
+ubupat@ubuntu-pc:\~\$
+```
 
 Meaning: 
 - ubupat - current user
