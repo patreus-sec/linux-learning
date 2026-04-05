@@ -11,8 +11,11 @@ how to navigate the system using the terminal.
 
 Example prompt: ubupat@ubuntu-pc:\~\$
 
-Meaning: - ubupat - current user - ubuntu-pc - computer name - \~ - home
-directory - \$ - normal user (not root)
+Meaning: 
+- ubupat - current user
+- ubuntu-pc - computer name
+- ~ - home directory
+- $ - normal user (not root)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +23,18 @@ directory - \$ - normal user (not root)
 
 Linux uses a tree-like structure starting from the root directory `/`.
 
-Example: / ├── home │ └── ubupat ├── etc ├── var ├── tmp
+Example: / 
+├── home 
+│ └── ubupat 
+├── etc 
+├── var 
+├── tmp
+
+Important directories:
+
+- / - root of the system
+- /home - user directories
+- /home/ubupat - my home directory
 
 ------------------------------------------------------------------------
 
@@ -70,7 +84,10 @@ Result: /home/ubupat
 
 ## Practice I completed
 
-pwd ls cd / pwd ls cd /home ls cd ubupat pwd
+pwd 
+ls 
+cd 
+/ pwd ls cd /home ls cd ubupat pwd
 
 ------------------------------------------------------------------------
 
