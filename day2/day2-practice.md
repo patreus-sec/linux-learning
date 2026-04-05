@@ -1,8 +1,8 @@
 # Day 2 - Practice
 
-![File management practice](images/day2-practice-fm-1.png)
-![Backup practice](images/day2-practice-fm-2.png)
-![Navigation and organization](images/day2-practice-fm-3.png)
+![File management practice](../images/day2-practice-fm-1.png)
+![Backup practice](../images/day2-practice-fm-2.png)
+![Navigation and organization](../images/day2-practice-fm-3.png)
 
 ## File management practice
 
