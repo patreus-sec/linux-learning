@@ -23,12 +23,15 @@ Meaning:
 
 Linux uses a tree-like structure starting from the root directory `/`.
 
-Example: / 
-├── home 
-│ └── ubupat 
-├── etc 
-├── var 
+Example:
+```bash
+/
+├── home
+│   └── ubupat
+├── etc
+├── var
 ├── tmp
+```
 
 Important directories:
 
