@@ -1,5 +1,9 @@
 # Day 3 - Practice
 
+## Screenshots
+
+Below are examples of checking and changing permissions using `ls -l` and `chmod`.
+
 ![Permissions practice 1](../images/day3-practice-1.png)
 ![Permissions practice 2](../images/day3-practice-2.png)
 
