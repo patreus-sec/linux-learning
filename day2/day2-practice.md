@@ -1,5 +1,9 @@
 # Day 2 - Practice
 
+## Screenshots
+
+Below are examples of creating, moving, copying, and organizing files and directories.
+
 ![File management practice](../images/day2-practice-fm-1.png)
 ![Backup practice](../images/day2-practice-fm-2.png)
 ![Navigation and organization](../images/day2-practice-fm-3.png)
