@@ -1,5 +1,9 @@
 # Day 1 - Practice
 
+## Screenshot
+
+Below are examples of basic navigation commands using `pwd`, `ls`, and `cd`.
+
 ![Terminal navigation](../images/day1-practice.png)
 
 ## Navigation practice
