@@ -166,7 +166,7 @@ This means that Linux does not need a graphical interface to manage files effici
 
 ------------------------------------------------------------------------
 
-## Key concepts to remember
+## Linux commands to remember
 
 - `mkdir` - creates directories
 - `touch` - creates empty files
