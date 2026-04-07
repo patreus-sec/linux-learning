@@ -19,11 +19,11 @@ Below are examples of working with users, groups, and file ownership in Linux.
 ## Commands used
 
 ```bash
-whoami
-id
-sudo adduser patreus
-sudo groupadd security
-sudo usermod -aG security ubupat
-sudo chown patreus onlypatreus.txt
-sudo chgrp security security-gr.txt
+whoami                                  # show current user
+id                                      # show user id and groups
+sudo adduser patreus                    # create new user
+sudo groupadd security                  # create new group
+sudo usermod -aG security ubupat        # add user to group
+sudo chown patreus onlypatreus.txt      # change file owner
+sudo chgrp security security-gr.txt     # change file group
 ```
