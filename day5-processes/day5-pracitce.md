@@ -1,5 +1,9 @@
 # Day 5 - Practice
 
+Below are examples of working with processes in Linux.
+![Processes 1](../images/day5-processes-1.png)
+![Processes 2](../images/day5-processes-2.png)
+
 Today I practiced working with processes in Linux.
 ---
 Commands:
@@ -15,6 +19,13 @@ Command:
 top   # monitored CPU and memory usage observed processes in real time
 ```
 ---
+## Creating a test process
+
+Command:
+```bash
+sleep 1000 &  # created a process for testing in the background
+```
+---
 ## Process ID (PID)
 
 Each process has a unique ID called PID.
@@ -28,19 +39,6 @@ ps aux | grep sleep  # used to find the PID of a process
 Command:
 ```bash
 kill PID
-```
----
-## Force kill:
-Command:
-```bash
-kill -9 PID  # used to stop running processes
-```
----
-## Creating a test process
-
-Command:
-```bash
-sleep 1000  # created a process for testing
 ```
 ---
 ## Summary
