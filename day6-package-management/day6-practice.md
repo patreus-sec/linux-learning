@@ -5,11 +5,9 @@
 
 Command:
 ```bash
-sudo apt update
+sudo apt update  # updated package information
 ```
 ![APT](../images/day6-practice-1.png)
-
-- updated package information
 
 ------------------------------------------------------------------------
 
@@ -17,11 +15,9 @@ sudo apt update
 
 Command:
 ```bash
-sudo apt upgrade
+sudo apt upgrade  # upgraded installed packages
 ```
 ![APT](../images/day6-practice-2.png)
-
-- upgraded installed packages
 
 ------------------------------------------------------------------------
 
@@ -29,7 +25,7 @@ sudo apt upgrade
 
 Command:
 ```bash
-sudo apt install htop
+sudo apt install htop  # install a htop tool
 ```
 ![APT](../images/day6-practice-3.png)
 
@@ -41,11 +37,9 @@ sudo apt install htop
 
 Command:
 ```bash
-htop
+htop  # verified installation
 ```
-![APT](../images/day5-practice-4.png)
-
-- verified installation
+![APT](../images/day6-practice-4.png)
 
 ------------------------------------------------------------------------
 
@@ -64,11 +58,9 @@ apt search curl
 
 Command:
 ```bash
-sudo apt remove htop
+sudo apt remove htop  # removed installed package
 ```
 ![APT](../images/day6-practice-5.png)
-
-- removed installed package
 
 ------------------------------------------------------------------------
 
@@ -76,11 +68,9 @@ sudo apt remove htop
 
 Command:
 ```bash
-sudo apt autoremove
+sudo apt autoremove  # removed unused dependencies
 ```
 ![APT](../images/day6-practice-6.png)
-
-- removed unused dependencies
 
 ------------------------------------------------------------------------
 
