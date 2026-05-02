@@ -5,7 +5,7 @@
 
 Command:
 ```bash
-sudo apt update  # updated package information
+sudo apt update  # update package list from repositories
 ```
 ![APT](../images/day6-practice-1.png)
 
@@ -25,7 +25,7 @@ sudo apt upgrade  # upgraded installed packages
 
 Command:
 ```bash
-sudo apt install htop  # install a htop tool
+sudo apt install htop  # install package with dependencies
 ```
 ![APT](../images/day6-practice-3.png)
 
