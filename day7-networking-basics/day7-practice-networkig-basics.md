@@ -12,7 +12,7 @@ Command:
 ```bash
 ip a    # show network interfaces and IP addresses
 ```
-![Networking practice]](../images/day7-practice-1.png)
+![Networking practice](../images/day7-practice-1.png)
 
 ------------------------------------------------------------------------
 
